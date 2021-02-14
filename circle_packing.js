@@ -1,4 +1,4 @@
-// inefficient and not quite right (circle inside is buggy) but far enough there for a nice effect.
+// inefficient and not quite right (circle inside is buggy) but far enough there for a nice effect :))
 
 function Circle(x, y, diameter) {
   this.x = x;
